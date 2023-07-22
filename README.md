@@ -1,2 +1,2 @@
 # exampling
-repo for learning examples practice
+repo for testing
